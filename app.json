@@ -1,0 +1,12 @@
+{
+  "name": "SimplitrainApp",
+  "displayName": "SimplitrainApp",
+  "assetBundlePatterns": [
+    "assets/*"
+  ],
+  "splash": {
+    "image": "./assets/splash.png"
+  },
+  "icon": "./assets/icon.png",
+  "slug": "simplitrain"
+}
